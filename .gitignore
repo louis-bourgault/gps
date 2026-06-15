@@ -1,0 +1,49 @@
+# ==========================================
+# Official KiCad Gitignore Template
+# Suitable for KiCad 6.0, 7.0, 8.0, and 9.0+
+# ==========================================
+
+# Temporary & Auto-saved Files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*-cache*
+*-bak
+*-bak*
+*~
+~*
+_autosave-*
+\#auto_saved_files\#
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+~*.lck
+\#auto_saved_files#
+
+# Local Project & User Settings (window layout, layer visibility, etc.)
+*.kicad_prl
+
+# KiCad 9.0+ Local Git-Based History
+.history
+
+# Netlist Files (Only needed if exporting to external tools)
+*.net
+
+# Autorouter Files 
+*.dsn
+*.ses
+
+# Manufacturing Output / Artifacts (Optional but recommended)
+# Un-comment the line below if you generate fabrication files inside a "gerbers" directory
+# gerbers/
+
+# Exported Documentation & Bills of Materials
+*.xml
+*.csv
+
+# Archived Automatic Backups
+**/*-backups/*.zip

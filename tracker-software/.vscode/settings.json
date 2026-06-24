@@ -1,4 +1,15 @@
 {
-    "idf.currentSetup": "/Users/louisb/.espressif/v6.0.1/esp-idf",
-    "C_Cpp.default.compilerPath": "/Users/louisb/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clang"
+  "idf.currentSetup": "/Users/louisb/.espressif/v6.0.1/esp-idf",
+  "C_Cpp.default.compilerPath": "/Users/louisb/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clang",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "clangd.path": "/Users/louisb/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/Users/louisb/Documents/hardware/gps/tracker-software/build"
+],
+"idf.port": "/dev/tty.usbserial-01C85F28",
+"idf.flashType": "JTAG"
 }

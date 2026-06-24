@@ -1,0 +1,9 @@
+Command: cmake -G Ninja -B /Users/louisb/Documents/hardware/gps/tracker-software/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/Users/louisb/.espressif/tools/python/v6.0.1/venv/bin/python3 -DESP_PLATFORM=1 -DCCACHE_ENABLE=False /Users/louisb/Documents/hardware/gps/tracker-software
+Configuration Report               
+ ───────────────────────────────── 
+   Parser Version: 1               
+   Verbosity: default              
+   Defaults policy: sdkconfig      
+   Status: Finished successfully   
+                                   
+ ───────────────────────────────── 

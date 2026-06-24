@@ -1,0 +1,11 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "/Users/louisb/Library/Caches/tinygo/goroot-faea7fe19bcf583c200b142d4914b8a0539b6198359e4dfb20e225e0ebe52dc5",
+        "GOFLAGS": "-tags=tinygo.riscv,baremetal,linux,arm,tinygo.riscv32,esp32c3,esp,esp32c3_generic,tinygo,purego,osusergo,math_big_pure_go,gc.conservative,scheduler.tasks,serial.usb,tinygo.unicore",
+        "GOOS": "linux",
+        "GOARCH": "arm",
+        "go.buildTags": "tinygo,baremetal"
+    },
+    "cmake.sourceDirectory": "/Users/louisb/Documents/hardware/gps/hello_world"
+}
+

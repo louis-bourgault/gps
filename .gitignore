@@ -47,3 +47,6 @@ fp-info-cache
 
 # Archived Automatic Backups
 **/*-backups/*.zip
+
+#stupid macos stuff
+*.DS_Store

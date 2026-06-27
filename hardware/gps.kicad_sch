@@ -6512,7 +6512,7 @@
 	)
 	(global_label "IO0"
 		(shape bidirectional)
-		(at 203.2 93.98 0)
+		(at 203.2 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6522,7 +6522,7 @@
 		)
 		(uuid "4a420a59-5f0f-4538-aa7a-2c1a4349e177")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.4413 93.98 0)
+			(at 210.4413 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6536,7 +6536,7 @@
 	)
 	(global_label "IO10"
 		(shape bidirectional)
-		(at 203.2 91.44 0)
+		(at 203.2 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6546,7 +6546,7 @@
 		)
 		(uuid "4f0a005b-a1ff-4016-95c7-ac36299036fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 211.6508 91.44 0)
+			(at 211.6508 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6992,7 +6992,7 @@
 	)
 	(global_label "IO1"
 		(shape bidirectional)
-		(at 203.2 88.9 0)
+		(at 203.2 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7002,7 +7002,7 @@
 		)
 		(uuid "f565fca3-3ea8-404d-be9d-c4702fff113c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.4413 88.9 0)
+			(at 210.4413 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
